@@ -15,7 +15,6 @@
 - 💬 **Ask me about**: Machine Learning, Deep Learning, Natural Language Processing & Computer Vision  
 - 📫 **Reach me at**: [mo.el.lithi@gmail.com](mailto:mo.el.lithi@gmail.com) | **+20 1555171495**  
 - ⚡ **Fun fact**: My real name is Mohammed Ellithy but everyone calls me Panda
-- 📊 **Tableau Projects**: Check them out [**here**](https://public.tableau.com/app/profile/abdullah.khaled)  
 
 ---
 
@@ -24,14 +23,14 @@
   <a href="https://www.linkedin.com/in/mohammed-ellithy/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Panda" height="40" width="40" />
   </a>
-  <a href="https://www.youtube.com/@PandaInAI" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Youtube - Panda" height="40" width="40" />
-  </a>
   <a href="https://www.kaggle.com/programmingpanda" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle - Panda" height="40" width="40" />
   </a>
   <a href="https://wa.me/+201555171495" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp - Panda" height="40" width="40" />
+  </a>
+  <a href="https://www.youtube.com/@PandaInAI" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Youtube - Panda" height="40" width="40" />
   </a>
 </p>
 
@@ -52,9 +51,11 @@
 
 <br>
 
+<br>
+
+
 # 💼 Experience
 
----
 
 ## 📜 NLP Engineer  
 **Agolo** · *On-Site*  
@@ -73,7 +74,7 @@ problems and conditions), utilizing `MLFlow` and returning structured data in JS
 
 
 
----
+<br>
 
 ## 🧠 Machine Learning Engineer (Intern) 
 **Talents Arena**  *Hybrid*
@@ -93,8 +94,25 @@ problems and conditions), utilizing `MLFlow` and returning structured data in JS
 between job posts and their needed skills
 
 
+<br>
 
----
+## 🧠 Machine Learning Engineer (Freelancing) 
+**DataSkew**  *Hybrid*
+
+**Mar 2023 - Nov 2023** (9 months)  
+
+
+**Key Projects:**
+
+- Designed and executed a dynamic time series forecasting project to predict the net profit for 8000+ products the company sells. Leveraged continuous data updates and iterative model training to enhance future predictions. Successfully deployed the forecasting solution on AWS
+
+- Integration of an Arabic Chatbot into a university 's website of 13000 students and staff, using ChatGPT which incorporates the university's FAQ and private data. The Chatbot is then wrapped with FastAPI and deployed through Docker containers on GCP to be integrated with DialogFlowCX.
+
+- Creating a women's health chatbot incorporating all the articles from the company's website as well as utilizing their private data. it is encapsulated using FastAPI and deployed using Docker on GCP . All user-bot conversations are stored in Firebase for easy retrieval and analysis of all 10,000 visitors monthly.
+
+- A Sales Chatbot for an e-commerce and shopping website to engage with users on the specific web pages they are browsing, extracting relevant information about products to provide accurate answers to user inquiries and their follow-up questions in a streamlit app
+
+<br>
 
 
 
@@ -120,7 +138,8 @@ between job posts and their needed skills
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Langchain](https://img.shields.io/badge/Langchain-000000?style=flat&logo=langchain&logoColor=white)
-![Cohere](https://img.shields.io/badge/Cohere-00A3E0?style=flat&logo=cohere&logoColor=white)
+![LLM](https://img.shields.io/badge/Llama-00A3E0?style=flat&logo=cohere&logoColor=white)
+![LLM](https://img.shields.io/badge/Mistral-00A3E0?style=flat&logo=cohere&logoColor=white)
 
 ### 🚀 Deployment & MLOps
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
@@ -146,10 +165,42 @@ between job posts and their needed skills
 ![Azure Blob Storage](https://img.shields.io/badge/Azure%20Blob%20Storage-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 
 
----
+<br>
 
 
-  
+
+<br>
+
+# 📜 Recent Projects in NLP
+
+## 🔁 End To End Deployment
+
+**Description:**  
+🚀 The goal of this project is to try a full `CI/CD` Pipeline with `GitHub Actions` and `pre-commit hooks` for a simple NLP Project to practice using `Docker` for `Deployment` and having `Tests` to make sure the new deployment is working as it should be
+
+[End To End Deployment](https://github.com/That1Panda/end-to-end-deployment)  
+
+**Business Goal:**  
+🎯 Enable easy and simple prototype of a deployment process for any NLP model to be used in production
+
+**Tools & Technologies:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Github Actions](https://img.shields.io/badge/GithubActions-150458?style=flat&logo=github-actions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-315796?style=flat&logo=Docker&logoColor=white) ![Jupyter](https://img.shields.io/badge/Pre_Commit_Config-F37626?style=flat&logo=pre-commit&logoColor=white)
+[![made-with-bash](https://img.shields.io/badge/-Bash_Scripting-1f425f.svg?logo=image%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw%2FeHBhY2tldCBiZWdpbj0i77u%2FIiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8%2BIDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTExIDc5LjE1ODMyNSwgMjAxNS8wOS8xMC0wMToxMDoyMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTUgKFdpbmRvd3MpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOkE3MDg2QTAyQUZCMzExRTVBMkQxRDMzMkJDMUQ4RDk3IiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOkE3MDg2QTAzQUZCMzExRTVBMkQxRDMzMkJDMUQ4RDk3Ij4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6QTcwODZBMDBBRkIzMTFFNUEyRDFEMzMyQkMxRDhEOTciIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6QTcwODZBMDFBRkIzMTFFNUEyRDFEMzMyQkMxRDhEOTciLz4gPC9yZGY6RGVzY3JpcHRpb24%2BIDwvcmRmOlJERj4gPC94OnhtcG1ldGE%2BIDw%2FeHBhY2tldCBlbmQ9InIiPz6lm45hAAADkklEQVR42qyVa0yTVxzGn7d9Wy03MS2ii8s%2BeokYNQSVhCzOjXZOFNF4jx%2BMRmPUMEUEqVG36jo2thizLSQSMd4N8ZoQ8RKjJtooaCpK6ZoCtRXKpRempbTv5ey83bhkAUphz8fznvP8znn%2B%2F3NeEEJgNBoRRSmz0ub%2FfuxEacBg%2FDmYtiCjgo5NG2mBXq%2BH5I1ogMRk9Zbd%2BQU2e1ML6VPLOyf5tvBQ8yT1lG10imxsABm7SLs898GTpyYynEzP60hO3trHDKvMigUwdeaceacqzp7nOI4n0SSIIjl36ao4Z356OV07fSQAk6xJ3XGg%2BLCr1d1OYlVHp4eUHPnerU79ZA%2F1kuv1JQMAg%2BE4O2P23EumF3VkvHprsZKMzKwbRUXFEyTvSIEmTVbrysp%2BWr8wfQHGK6WChVa3bKUmdWou%2BjpArdGkzZ41c1zG%2Fu5uGH4swzd561F%2BuhIT4%2BLnSuPsv9%2BJKIpjNr9dXYOyk7%2FBZrcjIT4eCnoKgedJP4BEqhG77E3NKP31FO7cfQA5K0dSYuLgz2TwCWJSOBzG6crzKK%2BohNfni%2Bx6OMUMMNe%2Fgf7ocbw0v0acKg6J8Ql0q%2BT%2FAXR5PNi5dz9c71upuQqCKFAD%2BYhrZLEAmpodaHO3Qy6TI3NhBpbrshGtOWKOSMYwYGQM8nJzoFJNxP2HjyIQho4PewK6hBktoDcUwtIln4PjOWzflQ%2Be5yl0yCCYgYikTclGlxadio%2BBQCSiW1UXoVGrKYwH4RgMrjU1HAB4vR6LzWYfFUCKxfS8Ftk5qxHoCUQAUkRJaSEokkV6Y%2F%2BJUOC4hn6A39NVXVBYeNP8piH6HeA4fPbpdBQV5KOx0QaL1YppX3Jgk0TwH2Vg6S3u%2BdB91%2B%2FpuNYPYFl5uP5V7ZqvsrX7jxqMXR6ff3gCQSTzFI0a1TX3wIs8ul%2Bq4HuWAAiM39vhOuR1O1fQ2gT%2F26Z8Z5vrl2OHi9OXZn995nLV9aFfS6UC9JeJPfuK0NBohWpCHMSAAsFe74WWP%2BvT25wtP9Bpob6uGqqyDnOtaeumjRu%2ByFu36VntK%2FPA5umTJeUtPWZSU9BCgud661odVp3DZtkc7AnYR33RRC708PrVi1larW7XwZIjLnd7R6SgSqWSNjU1B3F72pz5TZbXmX5vV81Yb7Lg7XT%2FUXriu8XLVqw6c6XqWnBKiiYU%2BMt3wWF7u7i91XlSEITwSAZ%2FCzAAHsJVbwXYFFEAAAAASUVORK5CYII%3D)](https://www.gnu.org/software/bash/)
+
+<br>
+
+## 💻 Finetune, Distill, Quantize & ORT  
+
+**Description:**  
+🐜 The aim of this project is to transform a large, general-purpose model into a **Fast**, **Compact**, and highly **Accurate** version **Finetuned** on a specific task, optimized for **Low latency** and suitable for **Edge Computing**. This involves **Fine-tuning** the model, applying model `Distillation`, `Quantization`, and leveraging `ONNX Runtime (ORT)` for efficient inference.
+
+[Finetune-Distill-Quantize-ORT](https://github.com/That1Panda/Finetune-Distill-Quantize-ORT)
+
+**Tools & Technologies:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pytorch](https://img.shields.io/badge/PyTorch-8CAAE6?style=flat&logo=pytorch&logoColor=white) ![Transformers](https://img.shields.io/badge/Transformers-FFA500?style=flat&logo=huggingface&logoColor=black) ![ONNX](https://img.shields.io/badge/ONNX-8CAAE6?style=flat&logo=onnx&logoColor=white) 
+----
+
+
 <br>
 
 <div style="display: flex; flex-direction: column; align-items: center;">

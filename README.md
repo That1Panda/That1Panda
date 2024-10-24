@@ -14,7 +14,7 @@
 - 📋 **Resume**: Check out My Resume [**here**](https://drive.google.com/drive/folders/1t188f7_cnbVijfraP6rFVEHR8l_-MmQM?usp=sharing)  
 - 💬 **Ask me about**: Machine Learning, Deep Learning, Natural Language Processing & Computer Vision  
 - 📫 **Reach me at**: [mo.el.lithi@gmail.com](mailto:mo.el.lithi@gmail.com) | **+20 1555171495**  
-- ⚡ **Fun fact**: My real name is Mohammed Ellithy but everyone calls me Panda
+- ⚡ **Fun fact**: My real name is Mohammed El-lithy but everyone calls me Panda 🐼
 
 ---
 
@@ -104,13 +104,13 @@ between job posts and their needed skills
 
 **Key Projects:**
 
-- Designed and executed a dynamic time series forecasting project to predict the net profit for 8000+ products the company sells. Leveraged continuous data updates and iterative model training to enhance future predictions. Successfully deployed the forecasting solution on AWS
+- Designed and executed a dynamic `Time Series Forecasting` project to predict the net profit for **8000+ products** the company sells. Leveraged continuous data updates and **iterative model training** to enhance future predictions. Successfully deployed the forecasting solution on `AWS`
 
-- Integration of an Arabic Chatbot into a university 's website of 13000 students and staff, using ChatGPT which incorporates the university's FAQ and private data. The Chatbot is then wrapped with FastAPI and deployed through Docker containers on GCP to be integrated with DialogFlowCX.
+- Integration of an **Arabic Chatbot** into a university 's website of **13000** students and staff, using `ChatGPT` which incorporates the university's FAQ and private data. The Chatbot is then wrapped with **FastAPI** and deployed through `Docker` containers on **GCP** to be integrated with `DialogFlowCX`.
 
-- Creating a women's health chatbot incorporating all the articles from the company's website as well as utilizing their private data. it is encapsulated using FastAPI and deployed using Docker on GCP . All user-bot conversations are stored in Firebase for easy retrieval and analysis of all 10,000 visitors monthly.
+- Creating a women's health chatbot incorporating all the articles from the company's website as well as utilizing their private data. it is encapsulated using **FastAPI** and deployed using **Docker** on `GCP`. All user-bot conversations are stored in **Firebase** for easy retrieval and analysis of all **10,000** visitors monthly.
 
-- A Sales Chatbot for an e-commerce and shopping website to engage with users on the specific web pages they are browsing, extracting relevant information about products to provide accurate answers to user inquiries and their follow-up questions in a streamlit app
+- A **Sales Chatbot** for an e-commerce and shopping website to engage with users on the specific web pages they are browsing, extracting relevant information about products to provide accurate answers to user inquiries and their follow-up questions in a `Streamlit` app
 
 <br>
 
@@ -149,6 +149,8 @@ between job posts and their needed skills
 ![MLFlow](https://img.shields.io/badge/MLFlow-000000?style=flat&logo=mlflow&logoColor=white)
 ![DVC](https://img.shields.io/badge/DVC-0055FF?style=flat&logo=dvc&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/Weights_&_Biases-2088FF?logo=WeightsAndBiases&logoColor=white)
+
 
 
 ### 📊 Data Science
@@ -198,10 +200,23 @@ between job posts and their needed skills
 
 **Tools & Technologies:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pytorch](https://img.shields.io/badge/PyTorch-8CAAE6?style=flat&logo=pytorch&logoColor=white) ![Transformers](https://img.shields.io/badge/Transformers-FFA500?style=flat&logo=huggingface&logoColor=black) ![ONNX](https://img.shields.io/badge/ONNX-8CAAE6?style=flat&logo=onnx&logoColor=white) 
-----
 
 
 <br>
+
+## 🌍 Multilingual NER
+
+**Description:**  
+📜 This project demonstrates how to fine-tune a pre-trained model on a multilingual corpus and evaluate its performance across multiple languages, even on those not included in the fine-tuning process or languages with low resource availability.
+
+[Multi-Lingual-NER](https://github.com/That1Panda/Multi-Lingual-NER/)
+
+**Tools & Technologies:**  
+![Python](https://img.shields.io/badge/Jupyter-3776AB?style=flat&logo=jupyter&logoColor=white) ![Pytorch](https://img.shields.io/badge/PyTorch-8CAAE6?style=flat&logo=pytorch&logoColor=white) ![Transformers](https://img.shields.io/badge/Transformers-FFA500?style=flat&logo=huggingface&logoColor=black) ![Weights_&_Biases](https://img.shields.io/badge/Weights_&_Biases-8CAAE6?style=flat&logo=WeightsAndBiases&logoColor=white) 
+
+<br>
+
+---
 
 <div style="display: flex; flex-direction: column; align-items: center;">
   

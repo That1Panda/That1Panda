@@ -47,6 +47,11 @@
 - ![GPA Badge](https://img.shields.io/badge/GPA-3.2/4.0-brightgreen)
 - ![Duration Badge](https://img.shields.io/badge/Duration-Sep%202019%20–%20June%202024-yellow)
 
+##### 📚 Additioonal Courses:
+- [MIT 18.06](https://web.mit.edu/18.06/www/), [Notes](https://drive.google.com/file/d/1vm-7A8ZtKPV7jg6jo2zIPtZVDi2eRhPb/view?usp=sharing)
+- [STAT 110](https://projects.iq.harvard.edu/stat110/home), [Notes](https://www.notion.so/that1panda/Probability-8b505c811843437193f176a04cd314ab?pvs=4)
+- [MIT 6.006](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/), [Notes](https://that1panda.notion.site/Algorithms-5a79773dfb584476bc2b158ade2a5d4c?pvs=4)
+
 ---
 
 <br>
@@ -95,6 +100,27 @@ between job posts and their needed skills
 
 
 <br>
+
+
+## 🔉 NLP Engineer (Freelancing) 
+**Tanweer**  *Remote*
+
+**July 2023 - May 2024** (11 months)  
+
+
+**Key Contributions:**
+
+- Finetuning of `RWKV-4-World LLM` for English to Arabic translation through data structuring and
+renting online GPU's.
+
+- Conducted comparative analysis by fine-tuning various open-source models. Additionally,
+employed `ChatGPT` for facilitating `multilingual` translation tasks
+
+- `Transcription` of multi language videos using `WhisperX` and deploying demo on `GCP`
+
+
+<br>
+
 
 ## 🧠 Machine Learning Engineer (Freelancing) 
 **DataSkew**  *Hybrid*

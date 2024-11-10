@@ -14,7 +14,7 @@
 - 📋 **Resume**: Check out My Resume [**here**](https://drive.google.com/drive/folders/1t188f7_cnbVijfraP6rFVEHR8l_-MmQM?usp=sharing)  
 - 💬 **Ask me about**: Machine Learning, Deep Learning, Natural Language Processing & Computer Vision  
 - 📫 **Reach me at**: [mo.el.lithi@gmail.com](mailto:mo.el.lithi@gmail.com) | **+20 1555171495**  
-- ⚡ **Fun fact**: My real name is Mohammed El-lithy but everyone calls me Panda 🐼
+- ⚡ **Fun fact**: My real name is Mohammed El-Lithy but everyone calls me Panda 🐼
 
 ---
 

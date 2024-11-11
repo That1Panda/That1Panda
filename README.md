@@ -176,6 +176,8 @@ employed `ChatGPT` for facilitating `multilingual` translation tasks
 ![DVC](https://img.shields.io/badge/DVC-0055FF?style=flat&logo=dvc&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/Weights_&_Biases-2088FF?logo=WeightsAndBiases&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-2088FF?logo=Argo&logoColor=white)
+![CircleCI](https://img.shields.io/badge/CircleCI-2088FF?logo=circleci&logoColor=white)
 
 
 

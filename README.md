@@ -169,13 +169,14 @@ employed `ChatGPT` for facilitating `multilingual` translation tasks
 
 ### 🚀 Deployment & MLOps
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![gradio](https://img.shields.io/badge/gradio-FF4B4B?style=flat&logo=gradio&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![MLFlow](https://img.shields.io/badge/MLFlow-000000?style=flat&logo=mlflow&logoColor=white)
 ![DVC](https://img.shields.io/badge/DVC-0055FF?style=flat&logo=dvc&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/Weights_&_Biases-2088FF?logo=WeightsAndBiases&logoColor=white)
+![wandb](https://img.shields.io/badge/Weights_&_Biases-2088FF?logo=WeightsAndBiases&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-2088FF?logo=Argo&logoColor=white)
 ![CircleCI](https://img.shields.io/badge/CircleCI-2088FF?logo=circleci&logoColor=white)
 

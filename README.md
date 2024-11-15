@@ -52,7 +52,6 @@
 - [STAT 110](https://projects.iq.harvard.edu/stat110/home), [Notes](https://www.notion.so/that1panda/Probability-8b505c811843437193f176a04cd314ab?pvs=4)
 - [MIT 6.006](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/), [Notes](https://that1panda.notion.site/Algorithms-5a79773dfb584476bc2b158ade2a5d4c?pvs=4)
 
----
 
 <br>
 

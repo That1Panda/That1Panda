@@ -244,6 +244,19 @@ employed `ChatGPT` for facilitating `multilingual` translation tasks
 
 <br>
 
+## 🔥 PyTorch All In 1
+
+**Description:**  
+💻 The goal of this project is to gain hands-on experience with PyTorch and explore its various capabilities, from basic tensor operations to advanced topics like distributed training, quantization, and model deployment.
+
+
+[PyTorch-All-In-1](https://github.com/That1Panda/PyTorch-All-In-1)
+
+**Tools & Technologies:**  
+![Python](https://img.shields.io/badge/Jupyter-3776AB?style=flat&logo=jupyter&logoColor=white) ![Pytorch](https://img.shields.io/badge/PyTorch-8CAAE6?style=flat&logo=pytorch&logoColor=white) ![TorchVision](https://img.shields.io/badge/TorchVision-8CAAE6?style=flat&logo=pytorch&logoColor=white) 
+
+<br>
+
 ---
 
 <div style="display: flex; flex-direction: column; align-items: center;">

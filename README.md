@@ -1,6 +1,6 @@
 ![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)
 <h1 align="center">Halloz 👋, I'm Panda 🐼</h1>
-<h3 align="center">NLP & Vision Engineer</h3>
+<h3 align="center">NLP & Vision Engineer</h3> 
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ee/ed/e2/eeede229147eb053fe863ef1cc7faf0b.gif" />
 
